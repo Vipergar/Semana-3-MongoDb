@@ -1,0 +1,1 @@
+mongosh "mongodb+srv://cluster0.lupl3ql.mongodb.net/myFirstDatabase" --apiVersion 1 --username grupod
